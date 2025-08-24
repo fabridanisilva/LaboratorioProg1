@@ -1,3 +1,0 @@
-hola este fue el primer archivo creado en la carpeta y se llama file1
-segunda fila
-probamos el log
